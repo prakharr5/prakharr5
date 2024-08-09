@@ -15,7 +15,7 @@
 
 ## 📫 Contact Me
 - [LinkedIn](linkedin.com/in/prakhar5)
-- [Portfolio]([Prakhar's Portfolio Website](https://prakharsrivastava.netlify.app/))
+- ([Prakhar's Portfolio Website](https://prakharsrivastava.netlify.app/))
 - Email: prakhar586@gmail.com
 
 ![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakharr5&show_icons=true&theme=radical)
