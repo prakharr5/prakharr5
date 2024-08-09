@@ -1,4 +1,25 @@
-### Hi Forks👋
+# 👋 Hi, I'm Prakhar Kumar Srivastava
+
+🎓 3rd year BTech CSE student at BML Munjal University.
+💻 UI/UX designer and aspiring graphic designer.
+🔧 Skilled in Java, C++, Python, ReactJS, Figma, and more.
+
+## 🛠️ Skills
+- **Languages**: Java, C++, Python, JavaScript
+- **Frameworks**: ReactJS, NodeJS
+- **Tools**: Figma, Git, Tailwind CSS
+
+## 🌱 Currently Learning
+- Advanced ReactJS
+- Graphic Design with Adobe Suite
+
+## 📫 Contact Me
+- [LinkedIn](linkedin.com/in/prakhar5)
+- [Portfolio]([Your Portfolio Website](https://prakharsrivastava.netlify.app/))
+- Email: your.email@example.com
+
+![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakharr5&show_icons=true&theme=radical)
+
 [![An image of @prakharr5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prakharr5)](https://holopin.io/@prakharr5)
 <!--
 **prakharr5/prakharr5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakharr5&show_icons=true&theme=radical)
