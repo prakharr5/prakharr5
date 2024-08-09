@@ -16,7 +16,7 @@
 ## 📫 Contact Me
 - [LinkedIn](linkedin.com/in/prakhar5)
 - ([Prakhar's Portfolio Website](https://prakharsrivastava.netlify.app/))
-- Email: prakhar586@gmail.com
+- Email: prakharsrivastava2857@gmail.com
 
 ## 🎯 Hobbies
 - 🏇 Horse Riding
