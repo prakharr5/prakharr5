@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Forks👋
 [![An image of @prakharr5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prakharr5)](https://holopin.io/@prakharr5)
 <!--
 **prakharr5/prakharr5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![prakhar](https://appwrite.io/init/tickets/66b5cbdf0009249a8de0)
+
