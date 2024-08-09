@@ -18,6 +18,11 @@
 - ([Prakhar's Portfolio Website](https://prakharsrivastava.netlify.app/))
 - Email: prakhar586@gmail.com
 
+## 🎯 Hobbies
+- 🏇 Horse Riding
+- 🎯 Shooting
+- 🏋️‍♂️ Gym Enthusiast
+
 ![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakharr5&show_icons=true&theme=radical)
 
 [![An image of @prakharr5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prakharr5)](https://holopin.io/@prakharr5)
