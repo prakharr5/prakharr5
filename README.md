@@ -21,7 +21,6 @@
 ## 🎯 Hobbies
 - 🏇 Horse Riding
 - 🎯 Shooting
-- 🏋️‍♂️ Gym Enthusiast
 
 ![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakharr5&show_icons=true&theme=radical)
 
