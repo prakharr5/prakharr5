@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Prakhar Kumar Srivastava
 
-🎓 3rd year BTech CSE student at BML Munjal University.
+🎓 Final year BTech CSE student at BML Munjal University.
 💻 UI/UX designer and aspiring graphic designer.
 🔧 Skilled in Java, C++, Python, ReactJS, Figma, and more.
 
@@ -24,9 +24,7 @@
 - ([Prakhar's Portfolio Website](https://prakharsrivastava.netlify.app/))
 - Email: prakharsrivastava2857@gmail.com
 
-## 🎯 Hobbies
-- 🏇 Horse Riding
-- 🎯 Shooting
+
 <!--
 **prakharr5/prakharr5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
