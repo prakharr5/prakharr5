@@ -4,22 +4,22 @@
 
 [![An image of @prakharr5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prakharr5)](https://holopin.io/@prakharr5)
 
-# 👋 Hi, I'm Prakhar Kumar Srivastava
+# Hi, I'm Prakhar Kumar Srivastava
 
 🎓 Final year BTech CSE student at BML Munjal University.
 💻 UI/UX designer and aspiring graphic designer.
 🔧 Skilled in Java, C++, Python, ReactJS, Figma, and more.
 
-## 🛠️ Skills
+## 🛠Skills
 - **Languages**: Java, C++, Python, JavaScript
 - **Frameworks**: ReactJS, NodeJS
 - **Tools**: Figma, Git, Tailwind CSS
 
-## 🌱 Currently Learning
+## Currently Learning
 - Advanced ReactJS
 - Graphic Design with Adobe Suite
 
-## 📫 Contact Me
+## Contact Me
 - [LinkedIn](linkedin.com/in/prakhar5)
 - ([Prakhar's Portfolio Website](https://prakharsrivastava.netlify.app/))
 - Email: prakharsrivastava2857@gmail.com
