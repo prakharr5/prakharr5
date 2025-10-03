@@ -1,14 +1,8 @@
 # Hi, I'm Prakhar Kumar Srivastava 👋  
 
 🎓 Final-year **BTech CSE (Data Science & AI)** student at **BML Munjal University**  
-💻 Full-stack developer & UI/UX enthusiast  
+🔭 Experienced in **Web Development, AI/ML, and Generative AI** 
 🏆 Best Paper Award – STELMAR 2025  
-
----
-
-## 🚀 About Me  
-- 🌐 Portfolio: [prakharsrivastava.netlify.app](https://prakharsrivastava.netlify.app/)  
-- 🔭 Experienced in **Web Development, AI/ML, and Generative AI**  
 
 ---
 
