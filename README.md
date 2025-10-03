@@ -22,9 +22,9 @@
 
 ## 🛠 Tech Stack  
 💻 **Languages**: Python, C++, Java, JavaScript  
-⚡ **Frameworks**: ReactJS, NodeJS, MERN  
-🎨 **Design**: Figma, Canva, Adobe Suite  
-🗄️ **Databases & Tools**: MySQL, Git/GitHub, Tailwind CSS  
+⚡ **Frameworks**: ReactJS, MERN, Flask  
+🎨 **Design**: Figma, Canva  
+🗄️ **Databases & Tools**: MySQL, MongDB
 
 ---
 
